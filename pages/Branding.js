@@ -1,10 +1,10 @@
 import Head from "next/head";
 import Image from "next/image";
-import Header from "../../components/UI/header";
-import Footer from "../../components/UI/footer";
-import Nav from "../../components/UI/nav";
-import Projects from "../../components/UI/Projects";
-import SectionList from "../../components/UI/SectionList";
+import Header from "../components/UI/header";
+import Footer from "../components/UI/footer";
+import Nav from "../components/UI/nav";
+import Projects from "../components/UI/Projects";
+import SectionList from "../components/UI/SectionList";
 
 const Branding = () => {
   const projectList = [
